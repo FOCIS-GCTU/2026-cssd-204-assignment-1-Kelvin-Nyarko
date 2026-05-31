@@ -1,3 +1,4 @@
+def():
 # File: KON.py
 # Description: Print out my initials.
 # Assignment Number: 2
@@ -29,4 +30,6 @@ print("...KKKK....KKKK...**.....OOOOOOOO.....**...NNNN....NNNN...**")
 
 
 print()
+
+main()
 
